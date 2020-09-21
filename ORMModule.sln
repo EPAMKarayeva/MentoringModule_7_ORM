@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMModule", "ORMModule\ORMModule.csproj", "{658AFDCE-D1E9-4E6E-8ED8-7639A8AEFE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMModuleTest", "ORMModuleTest\ORMModuleTest.csproj", "{885E3035-AE4B-448F-A194-45C3639AB28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658AFDCE-D1E9-4E6E-8ED8-7639A8AEFE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658AFDCE-D1E9-4E6E-8ED8-7639A8AEFE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658AFDCE-D1E9-4E6E-8ED8-7639A8AEFE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658AFDCE-D1E9-4E6E-8ED8-7639A8AEFE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885E3035-AE4B-448F-A194-45C3639AB28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885E3035-AE4B-448F-A194-45C3639AB28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885E3035-AE4B-448F-A194-45C3639AB28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885E3035-AE4B-448F-A194-45C3639AB28A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE26D1D4-2DCE-4310-BA66-3B72230DC77C}
+	EndGlobalSection
+EndGlobal
